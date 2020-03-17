@@ -1,2 +1,1 @@
-# arduino-rfid-keyboard
 This sketch was designed for the Teensy++ 2.0, an MFRC522 and a small OLED screen. It allows specific cards to output specified text to the computer. Potential use case would be to use it as a password manager/input tool.
